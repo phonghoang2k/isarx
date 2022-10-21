@@ -10,7 +10,9 @@ environment:
 
 dependencies:
   isarx:
-    path: ../isar
+    git:
+      url: https://github.com/phonghoang2k/isarx
+      path: packages/isar
   build: ^2.3.0
   source_gen: ^1.2.2
   analyzer: ^4.7.0
