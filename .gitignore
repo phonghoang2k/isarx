@@ -111,8 +111,3 @@ coverage/
 
 # Symbols
 app.*.symbols
-
-*.a
-*.so
-*.dylib
-*.dll
